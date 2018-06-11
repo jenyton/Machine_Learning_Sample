@@ -1,0 +1,29 @@
+Age group,Nature of activity,Location,Purpose,Easy to Go or Not
+YOUTH,Adventure,Mountain,Recreation,Yes
+YOUTH,Adventure,Costal,Recreation,Yes
+EMPTY NESTERS,Adventure,Mountain,Recreation,No
+DINKS,Adventure,Mountain,Recreation,Yes
+DINKS,Adventure,Costal,Recreation,Yes
+DINKS,Beach Holiday,Costal,Recreation,Yes
+EMPTY NESTERS,Adventure,Costal,Recreation,No
+YOUTH,Sight Seeing,Rural/City,Culture,Yes
+YOUTH,Eco Tourism,Rural/City,Nature,Yes
+DINKS,Sight Seeing,Rural/City,Culture,Yes
+YOUTH,Beach Holiday,Costal,Recreation,Yes
+EMPTY NESTERS,Sight Seeing,Rural/City,Culture,Yes
+EMPTY NESTERS,Eco Tourism,Rural/City,Nature,Yes
+DINKS,Eco Tourism,Rural/City,Nature,Yes
+SINKS,Adventure,Mountain,Recreation,Yes
+SINKS,Adventure,Costal,Recreation,Yes
+SINKS,Sight Seeing,Rural/City,Culture,Yes
+SINKS,Eco Tourism,Rural/City,Nature,Yes
+SINKS,Beach Holiday,Costal,Recreation,Yes
+BOOMERS,Adventure,Mountain,Recreation,No
+BOOMERS,Adventure,Costal,Recreation,No
+BOOMERS,Sight Seeing,Rural/City,Culture,Yes
+BOOMERS,Eco Tourism,Rural/City,Nature,Yes
+BOOMERS,Beach Holiday,Costal,Recreation,Yes
+CHILDREN,Adventure,Mountain,Recreation,No
+CHILDREN,Adventure,Costal,Recreation,No
+CHILDREN,Sight Seeing,Rural/City,Culture,Yes
+CHILDREN,Beach Holiday,Costal,Recreation,Yes
